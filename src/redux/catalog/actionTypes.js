@@ -1,0 +1,11 @@
+const actionTypes = {
+  ADD_FILTER: 'ADD_FILTER',
+  REMOVE_FILTER: 'REMOVE_FILTER',
+  RESET_FILTERS: 'RESET_FILTERS',
+  
+  SORT_BY: 'SORT_BY',
+  UPDATE_SORT_ORDER: 'UPDATE_SORT_ORDER',
+
+};
+
+export default actionTypes;

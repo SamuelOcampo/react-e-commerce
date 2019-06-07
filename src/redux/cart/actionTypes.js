@@ -1,0 +1,8 @@
+const actionTypes = {
+  ADD_TO_CART: 'ADD_TO_CART',
+  REMOVE_FROM_CART: 'REMOVE_FROM_CART',
+  UPDATE_PRODUCT_QTY: 'UPDATE_PRODUCT_QTY',
+  CLEAR_CART: 'CLEAR_CART'
+};
+
+export default actionTypes;
